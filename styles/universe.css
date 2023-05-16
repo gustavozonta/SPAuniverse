@@ -1,0 +1,18 @@
+@import url(../style.css);
+
+body {
+  background-image: url(../assets/mountains-universe-2.png);
+  transition: background-image 400ms ease-in-out;
+}
+
+#card h1 {
+  margin-left: 11rem;
+}
+
+#card p {
+  margin-left: 11rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 400;
+  word-spacing: 5px;
+}
